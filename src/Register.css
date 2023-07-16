@@ -1,0 +1,49 @@
+/* .Soniya{
+    background-color: rgb(186, 175, 246);
+} */
+
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(207, 173, 239);
+    width: 320px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
+    /* background-image: url(../images/Screenshot\ 2023-02-15\ 204621.png); */
+    
+}
+input{
+    align-items: center ;
+}
+.Username{
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Email{
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Password{
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Button{
+    padding-left: 135px;
+    margin-top: 20px;
+
+}
+
+#email{
+    position: relative;
+    right: -34px;
+}
+#password{
+    position: relative;
+    right: -5px;
+}
+p{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 90px;
+}
